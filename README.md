@@ -1,8 +1,14 @@
 # MortgageFlow — Mini CRM
 
+## Application Screenshots
+
+### Enquiry Management Dashboard
+
+![MortgageFlow Dashboard](screenshots/dashboard.png)
+
 A **portfolio demonstration** of a mortgage enquiry workflow built with React, FastAPI and SQLAlchemy. It supports adding fictional customer enquiries, listing and searching them, filtering by status, and updating the pipeline status.
 
-> **Not production-ready.** This is a student portfolio prototype, not affiliated with any mortgage company. Do not use real customer data. It has no authentication, role-based permissions, audit trail, rate limiting or production security hardening.
+> **Not production-ready.** This is a student portfolio prototype, not affiliated with any mortgage company. Does not use real customer data. It has no authentication, role-based permissions, audit trail, rate limiting or production security hardening.
 
 ## Tech stack
 - Frontend: React 18, Vite, CSS, lucide-react
@@ -93,4 +99,4 @@ Browser (React/Vite)
 4. Describe how you would introduce an audit log and safely deploy changes to a live CRM.
 
 ## Attribution
-This project was generated with AI assistance as a learning scaffold. Review, run, test, modify and understand the code before presenting it as your own engineering work. Be transparent about the use of AI tools if asked.
+This project was developed by me with the assistance of AI coding agents. I used AI tools to support code generation, debugging and development while gaining hands-on experience with React, FastAPI, API integration and testing.
